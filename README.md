@@ -11,7 +11,7 @@ I'm a web developer. My currently interest is in frontend development, especiall
  
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/irsyadmhd">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IrsyadMhd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IrsyadMhd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
