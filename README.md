@@ -3,11 +3,11 @@
 I'm a web developer. My currently interest is in frontend development, especially in React JS.
 
 ### Latest Work
-- <a href="https://chat.webzite.org">simple-chat-app</a>
+- <a href="https://akhimedia-blog.vercel.app/">simple-Blog</a>
+- <a href="https://app.padangislamicschool.sch.id">ppdb-padang islamic school</a>
 - <a href="https://kajian.webzite.org">kajian-app</a>
 - <a href="https://irsyadmhd.github.io">resto-app</a>
-- <a href="https://app.padangislamicschool.sch.id">ppdb-padang islamic school</a>
-
+- <a href="https://chat.webzite.org">simple-chat-app</a>
  
 ### Github Statistic
 <p align="left">
